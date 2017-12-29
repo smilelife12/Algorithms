@@ -12,4 +12,5 @@ add_executable(ETree Tree/ExpressionTree/ExpressionTree.h Tree/ExpressionTree/Ex
 add_executable(LCSRTree ${LCSRTree})
 add_executable(LinkedList ${LinkedList})
 add_executable(BTree ${BTree})
-add_executable(BubbleTree Sort/BubbleSort/BubbleSort.cpp)
+add_executable(BubbleTree Sort/BubbleSort.cpp)
+add_executable(Insertion Sort/InsertionSort.cpp)
